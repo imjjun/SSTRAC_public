@@ -13,7 +13,7 @@ This repository is the official implementation for our paper: ` "SSTRAC: Skeleto
 ---
 ## Update ✅
 
-- [2024-1-8]: Our repository is now continually updated!
+- [2025-7-12]: Our repository is now continually updated!
 ---
 ## Overview 💡
 
