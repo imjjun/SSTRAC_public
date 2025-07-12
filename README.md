@@ -42,23 +42,6 @@ Most existing approaches to counting repetitive action in videos focus on improv
             </center>
         </td>
     </tr>
-    <tr>
-        <td>
-            <center>
-                <strong>3D Repcount-A</strong>
-            </center>
-        </td>
-        <td>
-            <center>
-                <img src='lib/src/demo5.gif' width = 300>
-            </center>
-        </td>
-        <td>
-            <center>
-                <img src='lib/src/demo6.gif' width = 300>
-            </center>
-        </td>
-    </tr>
 </table>
 
 #### Dataset Summary
@@ -67,19 +50,17 @@ We have carefully sorted out clear videos, which contain only single person & fu
 
 ### Result
 
-If you follow up the link, you could download the pretrained-weight.
+If you follow up the link, you could download the pretrained-weight with augmentation. 
 
 |Model|MAE|OBO|
 |------|:---:|:---:|
-|[2D_Base](https://github.com/imjjun/SSTRAC/)|0.438|0.2878|
-|[2D_Large](https://github.com/imjjun/SSTRAC/)|**0.407**|**0.303**|
-|[3D_Base](https://github.com/imjjun/SSTRAC/)|0.729|0.1509|
-|[3D_Large](https://github.com/imjjun/SSTRAC/)|0.658|0.226|
+|[Base](https://github.com/imjjun/SSTRAC/)|0.394|0.311|
+|[Large](https://github.com/imjjun/SSTRAC/)|**0.373**|**0.311**|
 
 ---
 ## How to Use 🙋🏻‍♂️
 
-More detailed explanation could be referred to [Quickstart.md](./docs/Quickstart.md). You could install this model with this docs.
+More detailed explanation could be referred to [Quickstart.md](./docs/Quickstart.md). You could install this model with this docs. This code would be released after publish.
 
 ### Train
 
