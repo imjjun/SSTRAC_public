@@ -54,8 +54,8 @@ If you follow up the link, you could download the pretrained-weight with augment
 
 |Model|MAE|OBO|
 |------|:---:|:---:|
-|[Base](https://github.com/imjjun/SSTRAC/)|0.394|0.311|
-|[Large](https://github.com/imjjun/SSTRAC/)|**0.373**|**0.311**|
+|[Base](https://drive.google.com/file/d/1otbdk9Rz1VbJcUvaYaXx8DHLWPGyNUT7/view?usp=sharing)|0.394|0.311|
+|[Large](https://drive.google.com/file/d/1CgaJOLevghtapPui3vTn9r4i9DKG8hMY/view?usp=drive_link)|**0.373**|**0.311**|
 
 ---
 ## How to Use 🙋🏻‍♂️
