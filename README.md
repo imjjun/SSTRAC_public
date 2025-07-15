@@ -1,7 +1,7 @@
-# SSTRAC: Skeleton-based dual-stream Spatio-Temporal Transformer for Repetitive Action Counting
+# SSTRAC: Skeleton-based dual-stream Spatio-Temporal Transformer for Repetitive Action Counting in Videos
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-This repository is the official implementation for our paper: ` "SSTRAC: Skeleton-based dual-stram Spatio-Temporal Transformer for Repetitive Action Counting" `
+This repository is the official implementation for our paper: ` "SSTRAC: Skeleton-based dual-stram Spatio-Temporal Transformer for Repetitive Action Counting in Videos" `
 
 ### Repetition Counting with PCT
 <p align="center">
