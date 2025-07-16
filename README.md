@@ -60,7 +60,7 @@ If you follow up the link, you could download the pretrained-weight with augment
 ---
 ## How to Use 🙋🏻‍♂️
 
-More detailed explanation could be referred to [Quickstart.md](./docs/Quickstart.md). You could install this model with this docs. This code would be released after publish.
+More detailed explanation could be referred to Quickstart.md. You could install this model with this docs. This code would be released after publish.
 
 ### Train
 
@@ -81,7 +81,7 @@ python test.py
 
 ### Custom Video
 
-Please refer to [Inference.md](./docs/Inference.md).
+Please refer to Inference.md. This code would be released after publish.
 
 ---
 ## Citation 📚
