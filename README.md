@@ -46,7 +46,7 @@ Most existing approaches to predicting repetitive actions in videos focus on imp
 
 #### Dataset Summary
 
-We have carefully sorted out clear videos, which contain only single person & full-view so that it could be adjusted in other skeleton models, such as Human poses as Compositional Tasks[1] and VideoPose3D[2], etc. In conclusion, we are able to build a dataset consisting of about 500 videos. This set is used for training our model.
+We have carefully sorted out clear videos, which contain only single person & full-view so that it could be adjusted in other skeleton models, such as Human poses as Compositional Tasks[1]. In conclusion, we are able to build a dataset consisting of about 500 videos. This set is used for training our model.
 
 ### Result
 
